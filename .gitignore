@@ -1,0 +1,6 @@
+# Exclusiones de la copia de seguridad
+Programas/
+.Trash-1000/
+.trash/
+System Volume Information/
+*.log
