@@ -2,5 +2,7 @@
 
 ¿Cómo funciona?
 
-Cuando conectas un nuevo dispositivo (como una PlayStation o una Smart TV) que requiere comunicación directa con internet, el protocolo UPnP le permite "pedir permiso" al router para abrir un puerto específico. Una vez que dejas de usar la aplicación o el dispositivo, el puerto se cierra automáticamente. Sin UPnP, tendrías que acceder manualmente al router para configurar el reenvío de puertos (_Port Forwarding_) cada vez que un juego o dispositivo lo requiera
+Cuando conectas un nuevo dispositivo (como una PlayStation o una Smart TV) que requiere comunicación directa con internet, el protocolo UPnP le permite "pedir permiso" al router para abrir un puerto específico. Una vez que dejas de usar la aplicación o el dispositivo, el puerto se cierra automáticamente. Sin UPnP, tendrías que acceder manualmente al router para configurar el reenvío de puertos (_Port Forwarding_) cada vez que un juego o dispositivo lo requiera. 
+#IMPORTANTE Siempre, siempre ha de estar desactivado, pues en muy inseguro tener todos los puertos abiertos de un dispositivo. 
+
 

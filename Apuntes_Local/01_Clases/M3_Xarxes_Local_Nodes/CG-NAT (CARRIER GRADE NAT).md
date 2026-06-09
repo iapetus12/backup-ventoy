@@ -1,4 +1,4 @@
-**CGNAT** (Carrier-Grade Network Address Translation o NAT a nivel de operador) es una ==técnica que utilizan los proveedores de servicios de Internet (ISP) para compartir una misma dirección IP pública entre varios clientes simultáneamente==. [[1](https://www.alea-soluciones.com/cgnat-explicado-v4extend-paso-a-paso/), [2](https://guias.webempresa.com/preguntas-frecuentes/que-es-cgnat/)]
+**CGNAT** (Carrier-Grade Network Address Translation o NAT a nivel de operador) es una [[]]técnica que utilizan los proveedores de servicios de Internet (ISP) para compartir una misma dirección IP pública entre varios clientes simultáneamente. [[1](https://www.alea-soluciones.com/cgnat-explicado-v4extend-paso-a-paso/), [2](https://guias.webempresa.com/preguntas-frecuentes/que-es-cgnat/)]
 
 Se implementó para mitigar la escasez mundial de direcciones IPv4, pero presenta algunas limitaciones para el usuario final: [[1](https://www.pepephone.com/ayuda/que-es-cgnat), [2](https://www.alea-soluciones.com/cgnat-explicado-v4extend-paso-a-paso/)]
 
@@ -10,7 +10,7 @@ Se implementó para mitigar la escasez mundial de direcciones IPv4, pero present
 
 ✔️ ¿Cómo saber si estás en CGNAT?
 
-Una forma rápida de comprobarlo es entrando a la configuración de tu router y comparando la "IP WAN" o "IP de Internet" con la IP pública que te muestran páginas web como Cual es mi IP. Si ambos números son **distintos** (o si la IP de tu router empieza por el rango 100.x.x.x), tu operadora te tiene bajo CGNAT. [[1](https://o2online.es/blog/cgnat-que-es/)]
+Una forma rápida de comprobarlo es entrando a la configuración de tu router y comparando la "IP WAN" o "IP de Internet" con la IP pública que te muestran páginas web como Cual es mi IP. Si ambos números son **distintos** (o si la IP de tu router empieza por el rango 100.x.x.x), tu operadora te tiene bajo CGNAT. [[1](https://[o2online.es]()/blog/cgnat-que-es/)]
 
 ¿Se puede solucionar?
 

@@ -1,0 +1,1 @@
+Encargado de dirigir las comunicaciones entre la [[CPU]] y la [[RAM]] Por norma siempre tiene un disipador.
