@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Clases/M3_Xarxes_Local_Nodes/UPNP.md",
+                "file": "Preguntas/PREGUNTAS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UPNP"
+              "title": "PREGUNTAS"
             }
           }
         ]
@@ -185,6 +185,14 @@
   },
   "active": "22884a6e25f19a95",
   "lastOpenFiles": [
+    "Tiqueting",
+    "01_Clases/M3_Xarxes_Local_Nodes/CONMUTADOR O SWITCH.md",
+    "Preguntas/PREGUNTAS.md",
+    "Preguntas",
+    "01_Clases/M3_Xarxes_Local_Nodes/Clasificacion de redes..md",
+    "01_Clases/M3_Xarxes_Local_Nodes/CG-NAT (CARRIER GRADE NAT).md",
+    "01_Clases/M3_Xarxes_Local_Nodes/CAPAS OSI.md",
+    "01_Clases/M3_Xarxes_Local_Nodes/UPNP.md",
     "01_Clases/M3_Xarxes_Local_Nodes/TCP-IP.md",
     "01_Clases/M3_Xarxes_Local_Nodes/PUERTOS.md",
     "01_Clases/M3_Xarxes_Local_Nodes/PROTOCOLOS.md",
@@ -193,18 +201,13 @@
     "01_Clases/M3_Xarxes_Local_Nodes/Fibra optica.md",
     "01_Clases/M3_Xarxes_Local_Nodes/DMZ.md",
     "01_Clases/M3_Xarxes_Local_Nodes/DDNS.md",
-    "01_Clases/M3_Xarxes_Local_Nodes/CONMUTADOR O SWITCH.md",
-    "01_Clases/M3_Xarxes_Local_Nodes/Clasificacion de redes..md",
-    "01_Clases/M3_Xarxes_Local_Nodes/CG-NAT (CARRIER GRADE NAT).md",
-    "01_Clases/M3_Xarxes_Local_Nodes/CAPAS OSI.md",
     "02_Recursos/Pasted image 20260610000556.png",
     "02_Recursos/Pasted image 20260609235829.png",
     "02_Recursos/Pasted image 20260609233750.png",
     "02_Recursos/Pasted image 20260609233601.png",
     "02_Recursos/Pasted image 20260609233539.png",
     "02_Recursos/Pasted image 20260609233532.png",
-    "01_Clases/M3_Xarxes_Local_Nodes/UPNP.md",
-    "Tiqueting",
+    "TIQUETING",
     "01_Clases/M2_Sistemes_Operatius/TARJETA DE RED.md",
     "01_Clases/M2_Sistemes_Operatius/ROBOCOPY.md",
     "01_Clases/M2_Sistemes_Operatius/RAM.md",
@@ -216,7 +219,6 @@
     "01_Clases/M2_Sistemes_Operatius/DISCOS DUROS.md",
     "01_Clases/M2_Sistemes_Operatius/CPU.md",
     "01_Clases/M2_Sistemes_Operatius/COMPONENTES DE UN PC.md",
-    "01_Clases/M2_Sistemes_Operatius/CHIPSET.md",
     "Pasted image 20260603123910.png",
     "Pasted image 20260603121136.png",
     "TCP",

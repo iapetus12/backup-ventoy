@@ -15,7 +15,7 @@ Perdida de paquetes.
 
 ## CABLES DE FIBRA 
 
-- [[MONOMODE]]  >Mayor ancho de band, menor atenuacion de senyal, ideal para largas distancias. (Qudate con eso, Sativa e Indica, siempre al reves, parece monomode peor, pero es mas distancia y mejor)
+- [[MONOMODE]]  >Mayor ancho de band, menor atenuacion de señal, ideal para largas distancias. (Qudate con eso, Sativa e Indica, siempre al reves, parece monomode peor, pero es mas distancia y mejor)
 - [[MULTIMODE]]  menor ancho de banda, mayor atenuacion de senyal, limitado para para largas distancias, asi que es para cortas distancias. 
 
 ![[Pasted image 20260610000556.png]]
