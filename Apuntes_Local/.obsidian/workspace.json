@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Preguntas/PREGUNTAS.md",
+                "file": "01_Clases/M3_Xarxes_Local_Nodes/UPNP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PREGUNTAS"
+              "title": "UPNP"
             }
           }
         ]
@@ -185,13 +185,21 @@
   },
   "active": "22884a6e25f19a95",
   "lastOpenFiles": [
+    "01_Clases/M3_Xarxes_Local_Nodes/CAPAS OSI.md",
+    "01_Clases/M2_Sistemes_Operatius/TARJETA DE RED.md",
+    "01_Clases/M2_Sistemes_Operatius/RAM.md",
+    "01_Clases/M2_Sistemes_Operatius/PLACA BASE.md",
+    "01_Clases/M2_Sistemes_Operatius/PILA BIOS.md",
+    "01_Clases/M2_Sistemes_Operatius/PANEL LATERAL.md",
+    "01_Clases/M2_Sistemes_Operatius/FUENTE DE ALIMENTACION.md",
+    "01_Clases/M2_Sistemes_Operatius/CHIPSET.md",
+    "01_Clases/M2_Sistemes_Operatius/COMPONENTES DE UN PC.md",
+    "Preguntas/PREGUNTAS.md",
     "Tiqueting",
     "01_Clases/M3_Xarxes_Local_Nodes/CONMUTADOR O SWITCH.md",
-    "Preguntas/PREGUNTAS.md",
     "Preguntas",
     "01_Clases/M3_Xarxes_Local_Nodes/Clasificacion de redes..md",
     "01_Clases/M3_Xarxes_Local_Nodes/CG-NAT (CARRIER GRADE NAT).md",
-    "01_Clases/M3_Xarxes_Local_Nodes/CAPAS OSI.md",
     "01_Clases/M3_Xarxes_Local_Nodes/UPNP.md",
     "01_Clases/M3_Xarxes_Local_Nodes/TCP-IP.md",
     "01_Clases/M3_Xarxes_Local_Nodes/PUERTOS.md",
@@ -208,17 +216,10 @@
     "02_Recursos/Pasted image 20260609233539.png",
     "02_Recursos/Pasted image 20260609233532.png",
     "TIQUETING",
-    "01_Clases/M2_Sistemes_Operatius/TARJETA DE RED.md",
     "01_Clases/M2_Sistemes_Operatius/ROBOCOPY.md",
-    "01_Clases/M2_Sistemes_Operatius/RAM.md",
-    "01_Clases/M2_Sistemes_Operatius/PLACA BASE.md",
-    "01_Clases/M2_Sistemes_Operatius/PILA BIOS.md",
-    "01_Clases/M2_Sistemes_Operatius/PANEL LATERAL.md",
-    "01_Clases/M2_Sistemes_Operatius/FUENTE DE ALIMENTACION.md",
     "01_Clases/M2_Sistemes_Operatius/ELECTRICIDAD.md",
     "01_Clases/M2_Sistemes_Operatius/DISCOS DUROS.md",
     "01_Clases/M2_Sistemes_Operatius/CPU.md",
-    "01_Clases/M2_Sistemes_Operatius/COMPONENTES DE UN PC.md",
     "Pasted image 20260603123910.png",
     "Pasted image 20260603121136.png",
     "TCP",
