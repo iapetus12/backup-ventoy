@@ -3,3 +3,13 @@ La capa 3 donde es internet. Capa 4 Transporte, y capa 5 6 y 7 sesion preseentac
 
 A traves del protocolo TCP/IP funciona la transmision de datos. 
 Si yo quiero enviar un paquete pondre esa direccion de destino, a la vez que la direccion de destino sabra quien le ha enviado el paquete. 
+
+
+
+[[CABLES UDP]]
+
+![[Pasted image 20260611123019.png]
+![[Pasted image 20260611123019.png]]
+
+
+

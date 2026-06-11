@@ -8,17 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "22884a6e25f19a95",
+            "id": "90d6c4aafdb6ca4a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_Clases/M3_Xarxes_Local_Nodes/UPNP.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "UPNP"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -183,8 +179,19 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "22884a6e25f19a95",
+  "active": "90d6c4aafdb6ca4a",
   "lastOpenFiles": [
+    "TCP/IP.md",
+    "TCP",
+    "01_Clases/M2_Sistemes_Operatius/BUSES.md",
+    "01_Clases/M2_Sistemes_Operatius/BIOS-UEFI.md",
+    "TIQUETING/locura.md",
+    "Preguntas/PREGUNTAS.md",
+    "01_Clases/M3_Xarxes_Local_Nodes/TCP-IP.md",
+    "01_Clases/M3_Xarxes_Local_Nodes/UPNP.md",
+    "01_Clases/M3_Xarxes_Local_Nodes/PUERTOS.md",
+    "01_Clases/M3_Xarxes_Local_Nodes/PROTOCOLOS.md",
+    "01_Clases/M3_Xarxes_Local_Nodes/MASCARAS Y SUBREDES.md",
     "01_Clases/M3_Xarxes_Local_Nodes/CAPAS OSI.md",
     "01_Clases/M2_Sistemes_Operatius/TARJETA DE RED.md",
     "01_Clases/M2_Sistemes_Operatius/RAM.md",
@@ -194,18 +201,12 @@
     "01_Clases/M2_Sistemes_Operatius/FUENTE DE ALIMENTACION.md",
     "01_Clases/M2_Sistemes_Operatius/CHIPSET.md",
     "01_Clases/M2_Sistemes_Operatius/COMPONENTES DE UN PC.md",
-    "Preguntas/PREGUNTAS.md",
     "Tiqueting",
     "01_Clases/M3_Xarxes_Local_Nodes/CONMUTADOR O SWITCH.md",
     "Preguntas",
     "01_Clases/M3_Xarxes_Local_Nodes/Clasificacion de redes..md",
     "01_Clases/M3_Xarxes_Local_Nodes/CG-NAT (CARRIER GRADE NAT).md",
-    "01_Clases/M3_Xarxes_Local_Nodes/UPNP.md",
-    "01_Clases/M3_Xarxes_Local_Nodes/TCP-IP.md",
-    "01_Clases/M3_Xarxes_Local_Nodes/PUERTOS.md",
-    "01_Clases/M3_Xarxes_Local_Nodes/PROTOCOLOS.md",
     "01_Clases/M3_Xarxes_Local_Nodes/FTP.md",
-    "01_Clases/M3_Xarxes_Local_Nodes/MASCARAS Y SUBREDES.md",
     "01_Clases/M3_Xarxes_Local_Nodes/Fibra optica.md",
     "01_Clases/M3_Xarxes_Local_Nodes/DMZ.md",
     "01_Clases/M3_Xarxes_Local_Nodes/DDNS.md",
@@ -216,13 +217,8 @@
     "02_Recursos/Pasted image 20260609233539.png",
     "02_Recursos/Pasted image 20260609233532.png",
     "TIQUETING",
-    "01_Clases/M2_Sistemes_Operatius/ROBOCOPY.md",
-    "01_Clases/M2_Sistemes_Operatius/ELECTRICIDAD.md",
-    "01_Clases/M2_Sistemes_Operatius/DISCOS DUROS.md",
-    "01_Clases/M2_Sistemes_Operatius/CPU.md",
     "Pasted image 20260603123910.png",
     "Pasted image 20260603121136.png",
-    "TCP",
     "Pasted image 20260603093305.png",
     "BIOS",
     "01_Clases/M3_Xarxes_Local_Nodes/INTERNET",
