@@ -11,10 +11,14 @@
             "id": "90d6c4aafdb6ca4a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01_Clases/M2_Sistemes_Operatius/ROBOCOPY.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "ROBOCOPY"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#IMPORTANTE",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +74,8 @@
               "title": "Marcadores"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -179,16 +184,23 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "90d6c4aafdb6ca4a",
+  "active": "dde9a442ebbb276e",
   "lastOpenFiles": [
+    "Preguntas/PREGUNTAS.md",
+    "01_Clases/M2_Sistemes_Operatius/DISCOS DUROS.md",
+    "01_Clases/M2_Sistemes_Operatius/ELECTRICIDAD.md",
+    "2026-06-13.md",
+    "Sin título.canvas",
+    "01_Clases/M2_Sistemes_Operatius/PANEL LATERAL.md",
+    "02_Recursos/Pasted image 20260613002754.png",
+    "01_Clases/M2_Sistemes_Operatius/Lista de aplicaciones de un tecnico.md",
+    "01_Clases/M3_Xarxes_Local_Nodes/UPNP.md",
+    "01_Clases/M3_Xarxes_Local_Nodes/TCP-IP.md",
     "TCP/IP.md",
     "TCP",
     "01_Clases/M2_Sistemes_Operatius/BUSES.md",
     "01_Clases/M2_Sistemes_Operatius/BIOS-UEFI.md",
     "TIQUETING/locura.md",
-    "Preguntas/PREGUNTAS.md",
-    "01_Clases/M3_Xarxes_Local_Nodes/TCP-IP.md",
-    "01_Clases/M3_Xarxes_Local_Nodes/UPNP.md",
     "01_Clases/M3_Xarxes_Local_Nodes/PUERTOS.md",
     "01_Clases/M3_Xarxes_Local_Nodes/PROTOCOLOS.md",
     "01_Clases/M3_Xarxes_Local_Nodes/MASCARAS Y SUBREDES.md",
@@ -197,7 +209,6 @@
     "01_Clases/M2_Sistemes_Operatius/RAM.md",
     "01_Clases/M2_Sistemes_Operatius/PLACA BASE.md",
     "01_Clases/M2_Sistemes_Operatius/PILA BIOS.md",
-    "01_Clases/M2_Sistemes_Operatius/PANEL LATERAL.md",
     "01_Clases/M2_Sistemes_Operatius/FUENTE DE ALIMENTACION.md",
     "01_Clases/M2_Sistemes_Operatius/CHIPSET.md",
     "01_Clases/M2_Sistemes_Operatius/COMPONENTES DE UN PC.md",
@@ -206,10 +217,6 @@
     "Preguntas",
     "01_Clases/M3_Xarxes_Local_Nodes/Clasificacion de redes..md",
     "01_Clases/M3_Xarxes_Local_Nodes/CG-NAT (CARRIER GRADE NAT).md",
-    "01_Clases/M3_Xarxes_Local_Nodes/FTP.md",
-    "01_Clases/M3_Xarxes_Local_Nodes/Fibra optica.md",
-    "01_Clases/M3_Xarxes_Local_Nodes/DMZ.md",
-    "01_Clases/M3_Xarxes_Local_Nodes/DDNS.md",
     "02_Recursos/Pasted image 20260610000556.png",
     "02_Recursos/Pasted image 20260609235829.png",
     "02_Recursos/Pasted image 20260609233750.png",
@@ -223,8 +230,6 @@
     "BIOS",
     "01_Clases/M3_Xarxes_Local_Nodes/INTERNET",
     "01_Clases/M3_Xarxes_Local_Nodes/CAPAS OSI",
-    "Pasted image 20260523163833.png",
-    "Sin título.canvas",
     "03_Plantillas/Sin título.base",
     "01_Clases/M2_Sistemes_Operatius/ELECTRICIDAD"
   ]
