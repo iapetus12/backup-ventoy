@@ -1,2 +1,2 @@
-- Filecilla(Practicamente unico)
+- Filecilla(Practicamente unico) en Windows
 - 
