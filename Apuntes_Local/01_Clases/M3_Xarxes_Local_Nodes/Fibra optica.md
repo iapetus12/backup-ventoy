@@ -19,3 +19,10 @@ Perdida de paquetes.
 - [[MULTIMODE]]  menor ancho de banda, mayor atenuacion de senyal, limitado para para largas distancias, asi que es para cortas distancias. 
 
 ![[Pasted image 20260610000556.png]]
+
+[[TRANCEPTORES]] SFP
+
+Encargasdos de pasar la señal de luz a 0 y 1 para que se entiendan. 
+Son muy importantes los conectores. Y hay varios. 
+
+
